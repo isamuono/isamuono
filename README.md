@@ -2,7 +2,7 @@
 
 <p align="left"> 
   <a href="https://github.com/isamuono/isamuono/">
-    <img src="https://isamuono.com/ghpvc/?username=isamuono" alt="isamuono" />
+    <img src="https://komarev.com/ghpvc/?username=yutkat" alt="yutkat" />
   </a>
 </p>
 
