@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p align="left"> 
+  <a href="https://github.com/yutkat/yutkat/">
+    <img src="https://komarev.com/ghpvc/?username=yutkat" alt="yutkat" />
+  </a>
+</p>
+
 <!--
 **isamuono/isamuono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
